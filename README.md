@@ -52,3 +52,15 @@ The objective of this project is to analyze COVID-19 data across Indian states t
 - Insights Generation
   - Interpreted results from charts and metrics to highlight states with highest burden, best/worst recovery, and alarming fatality rates.
   - Summarized observations into actionable insights.
+
+
+## Dashboard
+
+- Bar chart of top states by confirmed cases.
+- Horizontal bar chart of top states by active cases.
+- Stacked bar chart comparing cured vs deaths.
+- Pie chart of top 5 states by confirmed share.
+- Scatter plot of active cases vs fatality rate.
+- Line chart of case fatality rates across states.
+
+<img width="1986" height="1189" alt="Covid_image" src="https://github.com/user-attachments/assets/99a507ad-2e2f-48fc-842b-8da98d5d934a" />
